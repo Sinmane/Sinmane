@@ -1,46 +1,42 @@
-## Hi there, I'm [Your Name] 👋
+
+## Hi there, I'm Daniel Sinyinza 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=735&lines=Actuarial+Science+Graduate+%7C+Quantitative+Finance+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+AI;Algorithmic+Trading+%26+Derivative+Pricing;Digging+for+the+Diamond+in+Every+Dataset" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 About Me
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Driven by a degree in **Actuarial Science from the University of Zambia**, I am a **data analytics trainee** focused on the **quantitative finance space**. I am fascinated by the mechanics of **algorithmic trading** and **derivative pricing**.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+My toolkit spans **SQL, Power BI, Excel, and AI**. From building digitised registration systems for **Lusaka football academies** to analyzing **market mispricings**, I am dedicated to uncovering the **"diamond in the rough"** within any dataset.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+When I'm not extracting insight from numbers, I enjoy turning complex problems into clear, actionable dashboards and models that business teams actually use.
+
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+## 🔭 What I'm Currently Working On
 
-## 🌱 Currently Learning 
+- **Project A:** Building a quantitative analytics dashboard that tracks pricing anomalies and market signals.
+- **Project B:** Creating an automated reporting workflow in Power BI and Excel for financial performance review.
+- **Content Creation:** Developing data storytelling examples that showcase analytics insights for non-technical teams.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 🌱 Currently Learning
+
+- Advanced derivative pricing techniques and model validation.
+- Practical applications of AI in financial data analysis.
+- Stronger automation patterns for Power BI and Excel-driven reporting.
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
@@ -60,3 +56,16 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+## 💼 Experience & Impact
+
+- Built a **digitised registration system** for Lusaka football academies, improving participant onboarding and tracking.
+- Conducted **market mispricing analysis** using SQL and quantitative frameworks.
+- Delivered **reporting and dashboards** that make data easier to interpret and faster to act on.
+
+## 📬 Currently Seeking
+
+- Analytics roles in **quantitative finance**, **risk analytics**, or **data-driven strategy**.
+- Opportunities where I can combine **actuarial insight** with **data engineering**, **visualization**, and **financial modeling**.
+
+> I aim to find the hidden value in data and deliver insight that helps teams make more confident decisions.
