@@ -18,7 +18,7 @@ My toolkit spans **SQL, Power BI, Excel, and AI**. From building digitised regis
 
 When I'm not extracting insight from numbers, I enjoy turning complex problems into clear, actionable dashboards and models that business teams actually use.
 
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
 
 ## 🔭 What I'm Currently Working On
 
