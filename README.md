@@ -2,18 +2,17 @@
 ## Hi there, I'm Daniel Sinyinza 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=735&lines=Actuarial+Science+Graduate+%7C+Quantitative+Finance+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+AI;Algorithmic+Trading+%26+Derivative+Pricing;Digging+for+the+Diamond+in+Every+Dataset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=735&lines=Actuarial+Science+Graduate+%7C+Aspiring+Quantitative+Finance+Researcher;SQL+%7C+Power+BI+%7C+Excel+%7C+AI;Algorithmic+Trading+%26+Derivative+Pricing;Digging+for+the+Diamond+in+Every+Dataset" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="www.linkedin.com/in/daniel-sinyinza"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sinyinzalukundo21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me
 
-Driven by a degree in **Actuarial Science from the University of Zambia**, I am a **data analytics trainee** focused on the **quantitative finance space**. I am fascinated by the mechanics of **algorithmic trading** and **derivative pricing**.
+Driven by a degree in **Actuarial Science from the University of Zambia**, I am a **data analyst** focused on the **quantitative finance space**. I am fascinated by the mechanics of **algorithmic trading** and **derivative pricing**.
 
 My toolkit spans **SQL, Power BI, Excel, and AI**. From building digitised registration systems for **Lusaka football academies** to analyzing **market mispricings**, I am dedicated to uncovering the **"diamond in the rough"** within any dataset.
 
@@ -25,7 +24,6 @@ When I'm not extracting insight from numbers, I enjoy turning complex problems i
 
 - **Project A:** Building a quantitative analytics dashboard that tracks pricing anomalies and market signals.
 - **Project B:** Creating an automated reporting workflow in Power BI and Excel for financial performance review.
-- **Content Creation:** Developing data storytelling examples that showcase analytics insights for non-technical teams.
 
 ## 🌱 Currently Learning
 
@@ -40,7 +38,6 @@ When I'm not extracting insight from numbers, I enjoy turning complex problems i
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
