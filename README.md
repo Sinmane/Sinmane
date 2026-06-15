@@ -2,7 +2,7 @@
 ## Hi there, I'm Daniel 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=735&lines=Actuarial+Science+Graduate;Aspiring+Quant+Researcher;Algorithmic+Trading+%26+Derivative+Pricing;SQL+%7C+Power+BI+%7C+Excel+%7C+AI;Digging+for+the+Diamond+in+Every+Dataset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=735&lines=Actuarial+Science+Graduate;Data+Analyst;ML+Researcher;SQL+%7C+Power+BI+%7C+Excel+%7C+AI;Digging+for+the+Diamond+in+Every+Dataset" alt="Typing SVG" />
 </div>
 
 <p align="center">
